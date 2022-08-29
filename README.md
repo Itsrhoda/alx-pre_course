@@ -1,3 +1,2 @@
-my first readme
-good programmer
-God help
+we need new changes
+
